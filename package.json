@@ -1,8 +1,10 @@
 {
   "name": "newsletter-signup",
   "version": "1.0.0",
-  "description": "",
+  "description": "Signup app for subscribing newsletter",
   "main": "app.js",
+  "git":"https://github.com/lwithwma/newsletter-signup.git",
+  "author":"Lwithwma Brahma",
   "scripts": {
     "start": "nodemon app.js"
   },
